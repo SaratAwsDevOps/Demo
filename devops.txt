@@ -2,7 +2,10 @@ ADD()
 {
 C=A+B
 }
-
+SUB()
+{
+C=A-B
+}
 
 
 HELLO GOOD DAY
