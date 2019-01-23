@@ -1,3 +1,7 @@
+void main()
+{
+	printf(" I am fine");
+}
 void fun()
 {
 	printf(.....);
