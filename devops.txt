@@ -2,3 +2,5 @@ HELLO GOOD DAY
 NICE DAY
 BYE
 
+I am learning Devops
+it is for practice
