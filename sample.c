@@ -1,3 +1,4 @@
+VOID SETDATA()
 void main()
 {
 	printf(" I am fine");

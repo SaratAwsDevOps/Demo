@@ -1,3 +1,10 @@
+ADD()
+{
+C=A+B
+}
+
+
+
 HELLO GOOD DAY
 NICE DAY
 BYE
